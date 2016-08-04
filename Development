@@ -1,20 +1,25 @@
-As of 11:58pm 08/04/2016
+
+/** 08/05/2016 **/
+✗ Download EFX file for EP15 new skills on korean test client
+✗ Restore Database Cabal
+
+/** 08/04/2016 - 11:58pm **/
 Install and Build Cabal test server (Local Host)
 ✓ Clean EP8 server files DONE
- MSSQL Server reverted (On progress)
+✓ MSSQL Server reverted (FIXED)
 
 Adapt the Clean EP8 Client to Evolution Client
 ✓ Downloading latest ECH of korean cabal client from host VPS
 
 
-Pending
+/** Major Task **/
 ✗ MMO Paradox Launcher (Visual Studio)
 ✗ Add Major items from EP8 up to EP15
 ✗ Arcane Trace Map
 ✗ Senilinea Map
 ✗ EP15 Skills 
 
-List of Item need to be add:
+/** List of Item need to be add **/
 Archridium set
 Deviant set
 Skill Book - Infinity Blade		
